@@ -187,6 +187,8 @@ Plug 'https://github.com/jiangmiao/auto-pairs'
 Plug 'https://github.com/tpope/vim-unimpaired'
 Plug 'https://github.com/tpope/vim-surround'
 Plug 'junegunn/rainbow_parentheses.vim'
+Plug 'davidhalter/jedi-vim', { 'for':  'python'  }
+
 call plug#end()
 
 "plugin settings
