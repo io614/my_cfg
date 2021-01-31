@@ -1,0 +1,7 @@
+[user]
+  email = ivanongjiaen@gmail.com
+  name = ivan (do-try)
+
+[alias]
+  gd = log --graph --oneline --all --decorate
+
