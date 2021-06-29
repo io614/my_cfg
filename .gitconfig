@@ -5,3 +5,5 @@
 [alias]
   gd = log --graph --oneline --all --decorate
 
+[core]
+	editor = vim
